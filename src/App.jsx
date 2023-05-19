@@ -1,14 +1,14 @@
 import { useState } from "react";
 import "./styles/App.css";
 import Section from "./components/body/Section";
-import Nav from "./components/nav/nav";
+import Nav from "./components/NavBar/Nav";
 
 function App() {
 
   return (
     <div className="app">
       <h1>HELLO</h1>
-      <Nav/>
+    <Nav/>
       <Section/>
     </div>
   );
