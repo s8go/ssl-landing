@@ -1,5 +1,5 @@
 import React from 'react'
-import Menu from './Sidebar/Menu'
+import Menu from './sidebar/Menu'
 import Main from './main/Main'
 
 const Section = () => {
